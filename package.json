@@ -1,0 +1,23 @@
+{
+  "name": "crypto-discord-bot",
+  "version": "1.0.0",
+  "description": "A discord bot which fetches live crypto data",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sreekar9601/Crypto-Data-Discord-Bot.git"
+  },
+  "author": "Sreekar Sarvepalli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sreekar9601/Crypto-Data-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/sreekar9601/Crypto-Data-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0"
+  }
+}
